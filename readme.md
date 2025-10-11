@@ -21,7 +21,7 @@ embedded_example_file: "examples/PeristalticPump_minimal/PeristalticPump_minimal
 
 # Peristaltikpumpe
 
-![Peristaltikpumpe](43_peristaltikpumpe.jpg)
+![Peristaltikpumpe](./43_peristaltikpumpe.jpg)
 
 ## Beschreibung
 Die Peristaltikpumpe bringt durch Kneten eines Silikonschlauchs die darin befindliche Flüssigkeit in Bewegung und drückt diese so durch den Schlauch hindurch. Dabei kommen die mechanischen Bauteile der Pumpe nicht mit der Flüssigkeit in Kontakt und so lässt sie sich auch für Getränke oder andere flüssige Nahrungsmittel oder sterile Flüssigkeiten nutzen. Da die Pumpe durch einen Gleichstrommotor angetrieben wird, wird sie auch wie dieser angeschlossen. Die Steuerung erfolgt über ein einfaches Relais, einen Transistor, einen manuellen Schalter oder einen Motortreiber, der als fertiges Modul zwischen Mikrocontroller und Gleichstrommotor geschaltet wird.
