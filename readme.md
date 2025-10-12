@@ -3,7 +3,7 @@ title: "Peristaltikpumpe"
 date: "2018-10-01T14:24:30.000Z"
 tags: 
   - "output"
-coverImage: "43_peristaltikpumpe.jpg"
+coverImage: "43_peristaltikpumpe.png"
 material_number: "43"
 material_type: "output"
 material_short_descr: "Peristaltic Liquid Pump with Silicone Tubing"
